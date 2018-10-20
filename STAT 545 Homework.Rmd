@@ -2,8 +2,11 @@
 title: "STAT 545 Homework 5"
 author: "Anita"
 date: "October 17, 2018"
-output: github_document
-
+output:
+  github_document:
+    toc: true
+    toc_depth: 4
+always_allow_html: yes
 ---
 
 
